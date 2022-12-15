@@ -1,2 +1,3 @@
 # Resume-Fawaaz
-www
+Check Out My Website
+https://fawaaz7.github.io/Resume-Fawaaz/#
